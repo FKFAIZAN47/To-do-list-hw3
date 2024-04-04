@@ -21,7 +21,7 @@ section {
     width: 400px;
     border: 4px solid #fff;
     border-radius: 8px;
-    margin: 10px 12px; /*top/bottom left/right*/
+    margin: 10px 12px; 
 }
 
 
@@ -34,7 +34,7 @@ section:first-of-type {
     border: 4px solid gray;
 }
 
-/* the id has a higher specificity, so it beats out the section swelector */
+
 #inprogress {
     border: 4px solid red;
 }
