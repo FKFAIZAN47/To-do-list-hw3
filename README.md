@@ -1,5 +1,5 @@
 # To-do-list-hw3
-This is a homework_3 assignment, A to-do list using pseudo code and checkboxes
+This is a homework_3 assignment, A to-do list using HTML and CSS. The primary focus was on implementing checkboxes and psuedo selectors.
 
 # Steps
 I have created 3 sections in this to-do list
